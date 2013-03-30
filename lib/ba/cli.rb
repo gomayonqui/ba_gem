@@ -1,5 +1,4 @@
 require 'thor'
-require 'yaml'
 require 'mechanize'
 require 'highline/import'
 require 'ba/banks'
