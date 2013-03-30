@@ -1,4 +1,4 @@
-# Ba
+# Ba [![Build Status](https://travis-ci.org/lellisga/ba_gem.png)](https://travis-ci.org/lellisga/ba_gem)
 
 Bank Account Gem!
 
