@@ -25,13 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec"
+  spec.add_development_dependency "pry"
 
-  spec.post_install_message = "Important: You now need a configuration file\n\n" \
-    "**********************************************\n\n" \
-    "Run: ba install\n\n" \
-    "This will create a config/config.yml in your\n\n" \
-    "home directory, this file will be used to keep\n\n" \
-    "your user name and password\n\n" \
-    "Please edit before edit before running any other commandn\n" \
-    "**********************************************"
+  spec.post_install_message = "Important: You don't need any configuration file\n\n"
 end
