@@ -48,7 +48,7 @@ describe Ba::CLI do
 
   describe "#version" do
     it "returns the current application version" do
-      STDOUT.should_receive(:puts).with ("0.0.5")
+      STDOUT.should_receive(:puts).with ("0.0.6")
       subject.version
     end
   end
