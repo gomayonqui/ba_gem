@@ -1,4 +1,4 @@
-module Bb::Banks
+module Ba::Banks
   class Payoneer < Thor
 
     desc "balance", "Returns the Payoneer account balance"

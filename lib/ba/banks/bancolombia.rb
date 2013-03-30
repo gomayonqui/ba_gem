@@ -1,4 +1,4 @@
-module Bb::Banks
+module Ba::Banks
   class Bancolombia < Thor
 
     desc "data", "List the configuration data for this bank"

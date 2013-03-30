@@ -1,2 +1,2 @@
-require_relative '../lib/bb'
-require_relative '../lib/bb/cli'
+require_relative '../lib/ba'
+require_relative '../lib/ba/cli'

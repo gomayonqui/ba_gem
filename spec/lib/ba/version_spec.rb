@@ -1,9 +1,9 @@
 require 'spec_helper'
 
-describe Bb do
+describe Ba do
   describe "#version" do
     it "includes a version" do
-      Bb::VERSION.should_not be_nil
+      Ba::VERSION.should_not be_nil
     end
   end
 end

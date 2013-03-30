@@ -1,3 +1,3 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require_relative '../lib/bb'
+require_relative '../lib/ba'

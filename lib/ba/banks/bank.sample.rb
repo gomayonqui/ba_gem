@@ -1,4 +1,4 @@
-# module Bb::Banks
+# module Ba::Banks
 #   class BankSample < Thor
 # 
 #     desc "balance", "Returns the [BANK] account balance"
