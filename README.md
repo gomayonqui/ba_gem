@@ -19,22 +19,10 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install ba
-
 ## Usage
 
 ### Checkout the different commands by running
     $ ba
-
-### Install
-    Run the following command if you don't have any config/config.yml file in your local path
-
-    $ ba install
-
-### Modify the ~/config/config.yml with your bank info
-    $ vi ~/config/config.yml
 
 ### Run the command for your bank
     $ ba [BANK] balance
@@ -49,7 +37,6 @@ Or install it yourself as:
 
 ### Adding new Scripts
     - Follow the bank.sample.rb example
-    - Add the bank to the config/config.sample.yml
     - Push it!
 
 ## CONTRIBUTORS
