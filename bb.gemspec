@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'bb/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bank_balance"
+  spec.name          = "ba"
   spec.version       = Bb::VERSION
   spec.authors       = ["Li Ellis Gallardo"]
   spec.email         = ["lellisga@gmail.com"]
