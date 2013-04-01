@@ -6,8 +6,8 @@ require 'ba/version'
 Gem::Specification.new do |spec|
   spec.name          = "ba"
   spec.version       = Ba::VERSION
-  spec.authors       = ["Li Ellis Gallardo"]
-  spec.email         = ["lellisga@gmail.com"]
+  spec.authors       = ["Li Ellis Gallardo", "Jean Pierre Guarin"]
+  spec.email         = ["lellisga@gmail.com", "escribimepues@gmail.com"]
   spec.description   = %q{BankBalance Gem is used to check your bank account balance}
   spec.summary       = %q{Checking your bank account is now much faster}
   spec.homepage      = ""
