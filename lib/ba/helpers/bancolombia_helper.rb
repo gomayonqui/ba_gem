@@ -48,7 +48,7 @@ module Ba
         ask(go_to_authentication_path.search("#luserAnswer1").text.strip)
       end
 
-      def second_question(page)
+      def second_question
         ask(go_to_authentication_path.search("#luserAnswer2").text.strip)
       end
 

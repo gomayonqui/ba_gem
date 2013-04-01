@@ -51,12 +51,12 @@ module Ba::Banks
 
     def process_questions
       puts "The answer for the following questions will not be saved"
-      first_question = first_question
-      second_question = second_question
+      answer_1 = first_question
+      answer_2 = second_question
 
       form = get_question_form do |f|
-        f.userAnswer1 = first_question
-        f.userAnswer2 = secound_question
+        f.userAnswer1 = answer_1
+        f.userAnswer2 = answer_2
       end
       agent.submit(form)
     end
